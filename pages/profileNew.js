@@ -11,11 +11,11 @@ function ProfileCard({ user }) {
             Jonathan M. Ressmone
           </p>
         </li>
-        <li className="pt-3 desktop:pt-0">
+        {/* <li className="pt-3 desktop:pt-0">
           <p className="font-openSansBold tablet:italic text-center tablet:text-right mt-0 tablet:mt-3">
             Marketing Manager
           </p>
-        </li>
+        </li> */}
       </ul>
       <ul className="pl-0 flex flex-col items-center tablet:items-start mx-auto tablet:mx-0 tablet:pl-[9%] desktop:pl-[143px] pt-0 tablet:pt-3 leading-8 font-openSansBold font-[14px] tablet:font-[16px] desktop:font-[18px]">
         <li>San Diego, CS, USA</li>
