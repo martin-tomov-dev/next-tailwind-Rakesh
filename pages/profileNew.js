@@ -17,14 +17,14 @@ function ProfileCard({ user }) {
           </p>
         </li>
       </ul>
-      {/* <ul className="pl-0 flex flex-col items-center tablet:items-start mx-auto tablet:mx-0 tablet:pl-[9%] desktop:pl-[143px] pt-0 tablet:pt-3 leading-8 font-openSansBold font-[14px] tablet:font-[16px] desktop:font-[18px]">
+      <ul className="pl-0 flex flex-col items-center tablet:items-start mx-auto tablet:mx-0 tablet:pl-[9%] desktop:pl-[143px] pt-0 tablet:pt-3 leading-8 font-openSansBold font-[14px] tablet:font-[16px] desktop:font-[18px]">
         <li>San Diego, CS, USA</li>
         <li>j_m_ressmone@gmail.com</li>
         <li>(437)228-9712</li>
         <li>
           Resume: <span className="font-openSans">JRessmone_Resume.docx</span>
         </li>
-      </ul> */}
+      </ul>
       <div className="tablet:ml-auto pt-[10px] absolute right-[15px] top-[8px]">
         <PencilIcon width="25px" height="25px" />
       </div>
